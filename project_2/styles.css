@@ -1,0 +1,17 @@
+h1{
+    margin-top: 90px;
+}
+h1, h2{
+    background-color: black;
+    color: white;
+}
+h1, h2, p, img, ul{
+    margin-bottom: 50px;
+}
+body{
+    margin-left: 65px;
+    margin-right: 65px;
+}
+p{
+    text-align: justify;
+}
